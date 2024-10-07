@@ -1,0 +1,7 @@
+pandas==2.1.0
+numpy==1.23.5
+sqlite3  # Note: This is built into Python, no need to install separately
+holidays==0.16
+sqlalchemy==2.0.21
+jupyterlab==4.0.6
+ipykernel==6.24.0
